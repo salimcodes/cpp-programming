@@ -5,15 +5,15 @@ using namespace std;
 Write a complete C++ program that asks the user for a number between 0 and
 100 (0 and 100 are out of range). If the number is between 1 and 9, write out the
 words ONE DIGIT BIG! If it is between 10 and 99, write out the words TWO
-DIGITS BIG! If the user’s number is outside the requested range write the
-phrase OUT OF RANGE. Your program should use an if–else/if–else
+DIGITS BIG! If the userï¿½s number is outside the requested range write the
+phrase OUT OF RANGE. Your program should use an ifï¿½else/ifï¿½else
 control structure, not three individual if statements.
 */
 int main()
 {
-    int num;
-    bool again = true;
-    string answer;
+    int num; // Integer datatype to store the number being inputed by the user
+    bool again = true; // Boolean datatype to store if the 'do you want to go again' status of the user
+    string answer; //String the stores the answer to 'again' in Yes or No format
     do
     {
         cout << "Input your number (Integer between 0 and 100): " << endl;
