@@ -3,10 +3,10 @@
 using namespace std;
 
 /*
-Fuel efficiency is on everyone’s mind these days. We’re going to write a program
+Fuel efficiency is on everyoneï¿½s mind these days. Weï¿½re going to write a program
 to help the car buyer analyze the expected price of driving her new car.
 This program presents the user with a list of five types of cars and their expected
-miles per gallon (mpg). We’ll ask her to select two of the vehicles and
+miles per gallon (mpg). Weï¿½ll ask her to select two of the vehicles and
 enter the number of miles driven each year. Also enter the average price for a
 gallon of gas.The program then reports the yearly total number of gallons required
 by each vehicle, total cost, and shows the difference in cost between the
@@ -20,11 +20,12 @@ int main()
 
 
     cout << "The underlisted are the vehicles with their corresponding expected miles per gallon (mpg) " << endl;
-    cout << endl << "A. Toyota Prius (58 Miles per Gallon)" << endl;
-    cout << endl << "B. Ford Fusion Hybrid (43 Miles per Gallon)" << endl;
-    cout << endl << "C. Honda Insight (55 Miles per Gallon)" << endl;
-    cout << endl << "D. Hyundai Ioniq Hybrid    Blue (57 Miles per Gallon)" << endl;
-    cout << endl << "E. Chevrolet Spark (30 Miles per Gallon)" << endl;
+    cout << endl << "A. Toyota Prius" << endl; //(58 Miles per Gallon)
+    cout << endl << "B. Ford Fusion Hybrid" << endl; // (43 Miles per Gallon)
+    cout << endl << "C. Honda Insight" << endl; // (55 Miles per Gallon)
+    cout << endl << "D. Hyundai Ioniq Hybrid Blue" << endl; // (57 Miles per Gallon)
+    cout << endl << "E. Chevrolet Spark" << endl; // (30 Miles per Gallon)
+    
     cout << "Select one of the vehicles: (By entering the options)" << endl;
     cin >> answer1;
 

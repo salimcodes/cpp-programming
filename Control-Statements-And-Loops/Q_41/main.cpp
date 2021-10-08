@@ -1,3 +1,4 @@
+//Code Written by Salim O. Oyinlola
 #include <iostream>
 #include <cmath>
 
@@ -41,10 +42,12 @@ int main()
             cin >> input_feet_float;
             cout << "In inches: " << endl;
             cin >> input_inches_float;
-            output_inches = (float)output_inches;
+
+            // Ignore the code below!!
+            /*output_inches = (float)output_inches;
             output_feet = (float)output_feet;
             input_inches = (float)input_inches;
-            input_feet = (float)input_feet;
+            input_feet = (float)input_feet;*/
 
             output_inches_float = input_inches_float/12.0;
             output_feet_float = input_feet_float + output_inches_float;
