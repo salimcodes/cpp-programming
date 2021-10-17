@@ -1,23 +1,9 @@
 #include <iostream>
 #include <cmath>
-using namespace std;
-/*
-The C++ Distillery produces an excellent whiskey that is blended from a combination
-of mash and corn, aged in oak barrels for at least two years.The whiskey is
-filtered through charcoal and bottled in clear two liter triangular-shaped bottles.
 
-We’re going to write a program to help our distillery owner order the correct
-number of bottles for his product.The oak barrels are cylindrical in shape and
-range in size. Ask your user to enter the name for the whiskey that is going to
-be bottled, the size and number of barrels, and their diameter and height (in
-inches).We’ll assume the barrels are all the same size.Approximately five percent
-of the volume is lost during the aging and filtering process. Once you have
-the barrel information, calculate the amount of whiskey to be bottled and the
-number of bottles required for this batch of whiskey. Bottles come to the distillery
-in cases of twelve, so also report the number of cases our owner should
-order. Remember, 231 cubic inches is a gallon and a gallon is equivalent to
-3.785 liters.
-*/
+using namespace std;
+
+
 int main()
 {
     string name;

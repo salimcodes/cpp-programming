@@ -3,13 +3,7 @@
 #include <cmath>
 
 using namespace std;
-/*
-Write a complete C++ program that converts distance values. The program
-should give the user three options: convert a whole number of inches to feet
-and inches, convert feet and inches to decimal feet or feet and inches to inches.
-For example, 80 inches is 6 feet, 8 inches; and 5 feet, 6 inches is 5.5 feet and 4
-feet, 2 inches is 50 inches.Write the decimal feet to three decimal places.
-*/
+
 int main()
 {
     string answer_status;
