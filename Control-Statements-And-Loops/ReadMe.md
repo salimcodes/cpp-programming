@@ -1,3 +1,4 @@
+### Code Written by Salim O. Oyinlola
 ### Q_38
 
 Write a complete C++ program that asks the user for a number between 0 and

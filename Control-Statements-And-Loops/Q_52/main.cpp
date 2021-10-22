@@ -2,17 +2,7 @@
 
 using namespace std;
 
-/*
-Fuel efficiency is on everyone�s mind these days. We�re going to write a program
-to help the car buyer analyze the expected price of driving her new car.
-This program presents the user with a list of five types of cars and their expected
-miles per gallon (mpg). We�ll ask her to select two of the vehicles and
-enter the number of miles driven each year. Also enter the average price for a
-gallon of gas.The program then reports the yearly total number of gallons required
-by each vehicle, total cost, and shows the difference in cost between the
-two vehicles. The program should use two vectors, one for the type of vehicle
-and the other for integers that hold the corresponding mpg values.
-*/
+//Code Written by Salim O. Oyinlola
 int main()
 {
     char answer1, answer2;

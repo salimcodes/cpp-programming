@@ -3,18 +3,6 @@
 
 using namespace std;
 
-/*
-Write a complete C++ program that asks the user to enter a date in the
-month/day/year format, such as 4/25/2007. Check to ensure that the date is
-valid. (Remember, thirty days hath September,April, June, and November. All
-the rest have thirty-one, except in leap year, once in four, when February has
-one day more.)1 If the date is valid, state that, as well as convert it to the day
-number in the year. For example, January 31 is the thirty-first day of the year,
-and February 1 is the thirty-second day of the year. Determine if the year is a
-leap year. Recall that a year is a leap year if it is evenly divisible by 4�except
-in century years, which are leap years only if they are divisible by 400. If the
-date is not valid, write a �not valid� message.
-*/
 
 
 

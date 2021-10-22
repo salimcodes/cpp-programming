@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//Code Written by Salim O. Oyinlola
 using namespace std;
 
 

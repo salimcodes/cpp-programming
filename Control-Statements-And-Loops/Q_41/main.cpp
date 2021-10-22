@@ -1,7 +1,7 @@
 //Code Written by Salim O. Oyinlola
 #include <iostream>
 #include <cmath>
-
+// FOR MATHEMATICAL OPERATIONS
 using namespace std;
 
 int main()
@@ -37,7 +37,7 @@ int main()
             cout << "In inches: " << endl;
             cin >> input_inches_float;
 
-            // Ignore the code below!!
+            // Ignore the code below!
             /*output_inches = (float)output_inches;
             output_feet = (float)output_feet;
             input_inches = (float)input_inches;
