@@ -15,3 +15,13 @@ variables and the addresses of the variables into their pointers. Write out the 
 and values of each variable. Use the sizeof operator to state the number
 of bytes reserved for each type of variable.Then, using pencil and paper, diagram
 a memory using boxes that represent how the program allocated the memory.
+
+### Q_24
+
+Write a program that calls a function AskRandHCyl.This function asks for the
+radius and height of a cylinder. From main, pass these dimensions to the
+CalcVolAndSA function, which uses pointers or references to obtain the surface
+area and volume of the cylinder. Print the dimensions and calculated values
+from main showing four decimal places of accuracy. Refer to Chapter 2,
+Figure 2-2 and Figure 2-14.The volume of a cylinder is:
+where pi is 3.14159265, r is the radius, and h is the height.
