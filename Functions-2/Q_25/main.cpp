@@ -1,8 +1,14 @@
 #include <iostream>
 #include <cmath>
 
+
+/*
+Written by Salim O. Oyinlola
+*/
+
 using namespace std;
 
+//Declaring functions
 void AskRandHCyl(double *, double *);  //Using pointers. Hence, call by reference
 double CalcVolAndSA(double, double);
 int main()
@@ -19,6 +25,8 @@ int main()
     return 0;
 }
 
+
+// Initializing Functions
 void AskRandHCyl(double *r, double *h)
 {
     double radius, height;

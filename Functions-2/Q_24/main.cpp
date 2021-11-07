@@ -2,6 +2,9 @@
 
 using namespace std;
 
+/*
+Written by Salim O. Oyinlola
+*/
 int main()
 {
     double a = 4;

@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+/*
+Written by Salim O. Oyinlola
+*/
 // Declaring functions
 void AskForTwoNumbers(int*, int*); // Using pointers to declare variable
 int FindBigOne(int, int);
