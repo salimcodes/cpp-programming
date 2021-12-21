@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-Written by Salim O. Oyinlola
+Code Written by Salim O. Oyinlola
 */
 int main()
 {
